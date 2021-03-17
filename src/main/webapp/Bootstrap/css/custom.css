@@ -1,0 +1,27 @@
+h5 {	
+	line-height: 0em;	
+}
+
+h5 span {
+	background: #fff;
+	color: blue;
+}
+.my-custom-scrollbar {
+position: relative;
+height: 340px;
+overflow: auto;
+}
+table.table-bordered > thead > tr > th{
+  border:1px solid black;
+}
+table.table-bordered > tbody > tr > td{
+  border:1px solid black;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+th {
+	position: sticky;
+	top: 0;
+	background-color: #EDEADB;
+}
