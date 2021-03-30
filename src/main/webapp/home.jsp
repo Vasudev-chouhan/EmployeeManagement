@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Home</title>
+<title>Home Page</title>
 <style type="text/css">
 	<%@include file="Bootstrap/css/bootstrap.min.css"%>
 	<%@include file="Bootstrap/css/custom.css"%>
